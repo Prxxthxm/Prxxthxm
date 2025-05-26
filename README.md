@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=0092CC&width=600&height=100&lines=Hello%2C+I'm+Preetham+Sivalingam.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://github.com/Prxxthxm/Prxxthxm/blob/main/spin.gif" width="261px"/>
+<img align="right" alt="GIF" src="https://github.com/Prxxthxm/Prxxthxm/blob/main/spin.gif" width="249px"/>
 
 ```python
 preetham = Developer (
